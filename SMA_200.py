@@ -10,13 +10,6 @@ import plotly.graph_objects as go
 import matplotlib.pyplot as plt
 from IPython.display import display, Markdown
 
-
-# ------------------------------------------------------------
-# Library ----------------------------------------------------
-# ------------------------------------------------------------
-# ? I will make a code that does SMA200 on BTC like in the quant 
-# ? exercise and I will calculate all take profits here 
-
 # ------------------------------------------------------------
 # Data block -------------------------------------------------
 # ------------------------------------------------------------
